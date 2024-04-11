@@ -1,0 +1,15 @@
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\bin\Debug\net8.0\Api.Core.deps.json
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\bin\Debug\net8.0\Api.Core.dll
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\bin\Debug\net8.0\Api.Core.pdb
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\bin\Debug\net8.0\Api.Domain.dll
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\bin\Debug\net8.0\Api.Domain.pdb
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.csproj.AssemblyReference.cache
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.AssemblyInfoInputs.cache
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.AssemblyInfo.cs
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.csproj.Up2Date
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.dll
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\refint\Api.Core.dll
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\Api.Core.pdb
+C:\Users\antoni-s\source\repos\webapi\src\Api.Core\Api.Core\obj\Debug\net8.0\ref\Api.Core.dll

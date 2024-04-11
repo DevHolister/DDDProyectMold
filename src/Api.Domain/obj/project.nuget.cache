@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YZwyhooocTaoQYnr9vXWUtj4xHM6N4wcN9hbkGty9XRrzGWzw3lffE9bVRPiZtphIL98/7LkZJT4ToBnfwcWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\Api.Domain\\Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antoni-s\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\antoni-s\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\antoni-s\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\antoni-s\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
