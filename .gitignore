@@ -1,4 +1,12 @@
 # From .NET Core 3.0 you can use the command: `dotnet new gitignore` to generate a customizable .gitignore file
+src/Api.Core/Api.Core/obj
+src/Api.Core/Api.Core/bin
+src/Api.Domain/obj
+src/Api.Domain/bin
+src/Api.Infrastructure/obj
+src/Api.Infrastructure/bin
+src/Api.Persistence/obj
+src/Api.Persistence/bin
 src/webapi/obj
 src/webapi/bin
 *.swp

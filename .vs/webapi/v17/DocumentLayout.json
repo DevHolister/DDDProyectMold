@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antoni-s\\source\\repos\\webapi\\",
+  "WorkspaceRootPath": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F569B9E-F367-4EDE-8A90-CFC322144EE6}|src\\Api.Core\\Api.Core\\Api.Core.csproj|c:\\users\\antoni-s\\source\\repos\\webapi\\src\\api.core\\api.core\\catalogs\\example\\commands\\delete\\deleteexamplecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F569B9E-F367-4EDE-8A90-CFC322144EE6}|src\\Api.Core\\Api.Core\\Api.Core.csproj|c:\\users\\antoni-s\\desktop\\dddproyectmold\\webapi\\src\\api.core\\api.core\\catalogs\\example\\commands\\delete\\deleteexamplecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F569B9E-F367-4EDE-8A90-CFC322144EE6}|src\\Api.Core\\Api.Core\\Api.Core.csproj|solutionrelative:src\\api.core\\api.core\\catalogs\\example\\commands\\delete\\deleteexamplecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69E58859-407F-45AD-9C29-48DE36E33EB5}|src\\webapi\\webapi.csproj|c:\\users\\antoni-s\\source\\repos\\webapi\\src\\webapi\\controllers\\v1\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69E58859-407F-45AD-9C29-48DE36E33EB5}|src\\webapi\\webapi.csproj|c:\\users\\antoni-s\\desktop\\dddproyectmold\\webapi\\src\\webapi\\controllers\\v1\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69E58859-407F-45AD-9C29-48DE36E33EB5}|src\\webapi\\webapi.csproj|solutionrelative:src\\webapi\\controllers\\v1\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69E58859-407F-45AD-9C29-48DE36E33EB5}|src\\webapi\\webapi.csproj|c:\\users\\antoni-s\\source\\repos\\webapi\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69E58859-407F-45AD-9C29-48DE36E33EB5}|src\\webapi\\webapi.csproj|c:\\users\\antoni-s\\desktop\\dddproyectmold\\webapi\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69E58859-407F-45AD-9C29-48DE36E33EB5}|src\\webapi\\webapi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DeleteExampleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\Api.Core\\Api.Core\\Catalogs\\Example\\Commands\\Delete\\DeleteExampleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\src\\Api.Core\\Api.Core\\Catalogs\\Example\\Commands\\Delete\\DeleteExampleCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Api.Core\\Api.Core\\Catalogs\\Example\\Commands\\Delete\\DeleteExampleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\Api.Core\\Api.Core\\Catalogs\\Example\\Commands\\Delete\\DeleteExampleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\src\\Api.Core\\Api.Core\\Catalogs\\Example\\Commands\\Delete\\DeleteExampleCommandHandler.cs",
               "RelativeToolTip": "src\\Api.Core\\Api.Core\\Catalogs\\Example\\Commands\\Delete\\DeleteExampleCommandHandler.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA7wBsAAAAFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T21:27:51.061Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ExampleController.cs",
-              "DocumentMoniker": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\webapi\\Controllers\\V1\\ExampleController.cs",
+              "DocumentMoniker": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\src\\webapi\\Controllers\\V1\\ExampleController.cs",
               "RelativeDocumentMoniker": "src\\webapi\\Controllers\\V1\\ExampleController.cs",
-              "ToolTip": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\webapi\\Controllers\\V1\\ExampleController.cs",
+              "ToolTip": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\src\\webapi\\Controllers\\V1\\ExampleController.cs",
               "RelativeToolTip": "src\\webapi\\Controllers\\V1\\ExampleController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAADwvxgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:39:09.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T17:39:09.46Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\webapi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\src\\webapi\\Program.cs",
               "RelativeDocumentMoniker": "src\\webapi\\Program.cs",
-              "ToolTip": "C:\\Users\\antoni-s\\source\\repos\\webapi\\src\\webapi\\Program.cs",
+              "ToolTip": "C:\\Users\\antoni-s\\Desktop\\DDDProyectMold\\webapi\\src\\webapi\\Program.cs",
               "RelativeToolTip": "src\\webapi\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T16:17:54.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T16:17:54.621Z"
             }
           ]
         }
